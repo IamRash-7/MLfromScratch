@@ -1,3 +1,3 @@
-MLfromScratch
+# MLfromScratch
 
-Machine Learning Models from Scratch
+## Machine Learning Models from Scratch
